@@ -7,15 +7,12 @@
   </a>
 </p>
 
----
-
-## About Me  
+## About
 - I am currently working on a chatbot using HTML, CSS, and Python.  
 - I am improving my skills in React, Node.js, and MongoDB.  
 - I have experience in building real-time applications and APIs.  
 - I am interested in artificial intelligence and automation.  
 
----
 
 ## Tech Stack  
 <p align="left">
@@ -29,12 +26,3 @@
   <img src="https://skillicons.dev/icons?i=github" height="70" alt="GitHub" />
 </p>
 
----
-
-## GitHub Statistics  
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Sudeep-X&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudeep-X&theme=default" alt="GitHub Streak" />
-</p>
-
----
