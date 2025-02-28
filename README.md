@@ -33,16 +33,8 @@
 
 ## GitHub Statistics  
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Sudeep-py&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudeep-py&theme=default" alt="GitHub Streak" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=Sudeep-X&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sudeep-X&theme=default" alt="GitHub Streak" />
 </p>
 
 ---
-
-## Contact  
-<p align="left">
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2
