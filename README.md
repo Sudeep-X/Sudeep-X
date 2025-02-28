@@ -1,11 +1,6 @@
 <h1 align="center">Sudeep</h1>
 <h3 align="center">Backend Developer</h3>
 
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Sudeep-py&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
-</p>
-
 ## About
 - I am currently working on a chatbot using HTML, CSS, and Python.  
 - I am improving my skills in React, Node.js, and MongoDB.  
