@@ -1,16 +1,7 @@
 <h1 align="center">
-  Sudeep
-</h1>
-<p>hi</p>
-
+  Sudeep</h1>
 <h2>About</h2>
-<ul>
-  <li>I am currently working on a chatbot using HTML, CSS, and Python.</li>
-  <li>I am improving my skills in React, Node.js, and MongoDB.</li>
-  <li>I have experience in building real-time applications and APIs.</li>
-  <li>I am interested in artificial intelligence and automation.</li>
-</ul>
-
+<p>Hi, I'm Sudeep, a backend developer.</p>
 <h2>Tech Stack</h2>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=javascript" height="70" alt="JavaScript" />
