@@ -1,8 +1,7 @@
-<h1 align="center">Sudeep</h1>
-<h3 align="center">Python Developer | Web Developer</h3>
+<h1 align="center">Hi, I'm Sudeep</h1>
+<h3 align="center">Backend Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/Sudeep-py">
     <img src="https://komarev.com/ghpvc/?username=Sudeep-py&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p>
