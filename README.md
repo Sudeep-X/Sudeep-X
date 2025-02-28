@@ -1,4 +1,4 @@
-<h1 align="center">Sudeep#8203;</h1>
+<h1 align="center">Sudeep</h1>
 <h3 align="center">Backend Developer</h3>
 
 <h2>About</h2>
