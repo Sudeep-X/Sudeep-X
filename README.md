@@ -1,4 +1,7 @@
-<h1 align="center">Sudeep<br><span style="font-size: 20px; font-weight: normal;">Backend Developer</span></h1>
+<h1 align="center">
+  Sudeep<br>
+  <span style="font-size: 20px;">&nbsp;Backend Developer</span>
+</h1>
 
 <h2>About</h2>
 <ul>
