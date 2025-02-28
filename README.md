@@ -1,5 +1,5 @@
 <h1 align="center">Sudeep</h1>
-<h3 align="center">Backend Developer</h3>
+<strong align="center">Backend Developer</strong>
 
 <h2>About</h2>
 <ul>
